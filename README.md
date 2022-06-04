@@ -1,13 +1,13 @@
 # Heart-Disease-Prediction
-age 
-sex
-cp = chest pain type
-trestbps = resting blood pressure
-chol = serum cholestoral 
-fbs = fasting blood sugar
-restecg = resting electrocardiographic result
-thalach = max heart rate achieved
-exang = excercise included angina
-oldpeak = ST depression induced by excercise relative to rest
-slop = the slop of the peak exercise ST segment
+age <br />
+sex <br />
+cp = chest pain type <br />
+trestbps = resting blood pressure <br />
+chol = serum cholestoral  <br />
+fbs = fasting blood sugar <br />
+restecg = resting electrocardiographic result <br />
+thalach = max heart rate achieved <br />
+exang = excercise included angina <br />
+oldpeak = ST depression induced by excercise relative to rest <br />
+slop = the slop of the peak exercise ST segment <br />
 ca = number of major vessels (0-3) colored by flurosopy
